@@ -1,8 +1,5 @@
-import 'dart:js';
-
 import 'package:flutter/material.dart';
 import 'package:kalkulator/calculatorWidget.dart';
-import 'dart:js';
 
 void main() {
   runApp(MaterialApp(
